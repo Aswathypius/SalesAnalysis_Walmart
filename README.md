@@ -2,7 +2,21 @@
 
 ### Introduction
 
-This is my first SQL project. In this guided project, MySQL is used for data cleaning and exploratory data anlysis.
+This is my first guided SQL project.
+
+### Table of contents
+
+-[Project overview](#project-overview)
+
+-[Data source](#data-source)
+
+-[Tool used](#tool-used)
+
+-[Approaches used](#approaches-used)
+
+-[Findings](#findings)
+
+-[Recommendations](#recommendations)
 
 ### Project overview
 
@@ -51,3 +65,4 @@ This project uses only one dataset.The dataset was obtained from the Kaggle Walm
 - Invest in marketing and promotions on food and beverages as it have the largest revenue and highest average rating.
 - Some special offers can be given to member customers as they brought in highest gross income. 
   
+[Link to guided project](https://www.youtube.com/watch?v=Qr1Go2gP8fo)
