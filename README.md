@@ -1,7 +1,5 @@
 # SalesAnalysis_Walmart
 
-### Introduction
-
 This is my first guided SQL project.
 
 ### Table of contents
