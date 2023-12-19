@@ -1,6 +1,6 @@
 # SalesAnalysis_Walmart
 
-This is my first guided SQL project. 
+This is a guided SQL project. 
 
 ### Table of contents
 
@@ -63,4 +63,4 @@ This project uses only one dataset.The dataset was obtained from the Kaggle Walm
 - Invest in marketing and promotions on food and beverages as it have the largest revenue and highest average rating.
 - Some special offers can be given to member customers as they brought in highest gross income. 
   
-[Link to guided project](https://www.youtube.com/watch?v=Qr1Go2gP8fo)
+
